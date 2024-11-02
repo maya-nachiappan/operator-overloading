@@ -1,0 +1,1 @@
+This program contains a structure which represents a point. The user inputs the values of 3 points, with x and y coordinates. The equality operator and stream insertion operators are used and overloaded to collect and compare the values of each point.
